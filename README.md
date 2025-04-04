@@ -12,3 +12,20 @@ This project implements a transformer architecture from scratch using PyTorch's 
 - Comprehensive test suite
 
 ## Project Structure
+transformer_from_scratch/
+├── src/                    # Core transformer components
+│   ├── attention.py        # Multi-head attention mechanisms
+│   ├── embeddings.py       # Token and positional embeddings
+│   ├── encoder.py          # Transformer encoder
+│   ├── decoder.py          # Transformer decoder
+│   ├── feed_forward.py     # Feed forward networks
+│   ├── transformer.py      # Complete transformer model
+│   └── utils.py            # Utility functions
+├── examples/               # Example applications
+│   └── text_classification.py
+├── tests/                  # Unit tests
+│   └── test_attention.py
+├── notebooks/              # Tutorials and visualizations
+│   └── attention_visualization.ipynb
+├── requirements.txt        # Required dependencies
+└── README.md               # This file
