@@ -134,6 +134,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - The original paper: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - Inspired by various educational resources on transformer architectures
-```
 
-When you copy this into your README.md file, it should appear as a single continuous document without any breaks or interruptions. If you're seeing a break when viewing this in our conversation, it's likely just a display issue in the chat interface and won't affect the actual content when you copy it to your GitHub repository.
