@@ -1,5 +1,3 @@
-
-```markdown
 # Transformer from Scratch
 
 This project implements a transformer architecture from scratch using PyTorch's basic tensor operations. The implementation closely follows the architecture described in the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) by Vaswani et al.
@@ -14,7 +12,6 @@ This project implements a transformer architecture from scratch using PyTorch's 
 - Comprehensive test suite
 
 ## Project Structure
-
 ```
 transformer_from_scratch/
 ├── src/                    # Core transformer components
@@ -138,3 +135,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The original paper: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - Inspired by various educational resources on transformer architectures
 ```
+
+When you copy this into your README.md file, it should appear as a single continuous document without any breaks or interruptions. If you're seeing a break when viewing this in our conversation, it's likely just a display issue in the chat interface and won't affect the actual content when you copy it to your GitHub repository.
