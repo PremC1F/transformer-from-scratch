@@ -129,7 +129,6 @@ This implementation focuses on clarity and educational value, making it easy to 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - The original paper: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
