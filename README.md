@@ -1,4 +1,5 @@
 
+```markdown
 # Transformer from Scratch
 
 This project implements a transformer architecture from scratch using PyTorch's basic tensor operations. The implementation closely follows the architecture described in the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) by Vaswani et al.
@@ -14,6 +15,7 @@ This project implements a transformer architecture from scratch using PyTorch's 
 
 ## Project Structure
 
+```
 transformer_from_scratch/
 ├── src/                    # Core transformer components
 │   ├── attention.py        # Multi-head attention mechanisms
@@ -31,6 +33,7 @@ transformer_from_scratch/
 │   └── attention_visualization.ipynb
 ├── requirements.txt        # Required dependencies
 └── README.md               # This file
+```
 
 ## Installation
 
@@ -129,6 +132,7 @@ This implementation focuses on clarity and educational value, making it easy to 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Acknowledgments
 
 - The original paper: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
