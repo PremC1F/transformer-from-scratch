@@ -9,7 +9,6 @@ This project implements a transformer architecture from scratch using PyTorch's 
 - Positional encodings and embeddings
 - Visualization tools for attention patterns
 - Example applications for text classification and machine translation
-- Comprehensive test suite
 
 ## Project Structure
 ```
