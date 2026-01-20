@@ -125,9 +125,6 @@ This implementation focuses on clarity and educational value, making it easy to 
   - Support for more advanced transformer variants (GPT, BERT, etc.)
   - Integration with popular datasets and benchmarks
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
